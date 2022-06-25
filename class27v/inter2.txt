@@ -57,3 +57,4 @@ how do you manage secrets in k8s
 1. How do you minimise costs in your projects as a DevOps Engineer?
 2. How do you prioritise tickets assigned to you?
 3. What is the most challenging project you have worked on?
+How far.
